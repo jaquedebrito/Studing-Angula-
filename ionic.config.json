@@ -1,0 +1,8 @@
+{
+  "name": "Primay_Project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f44e8cef"
+}
